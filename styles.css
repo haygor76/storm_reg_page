@@ -1,0 +1,63 @@
+html {
+	padding: 0px;
+	margin: 0px;
+	background-color: #F2DAAE;
+	background-image: url('back_light.gif');
+	background-attachment: fixed;
+}
+body {
+	padding: 5px;
+	margin: 0px;
+	font-family: Verdana, Arial, Sans-Serif;
+	font-size: 11px;
+}
+td {
+	font-family: Verdana, Arial, Sans-Serif;
+	font-size: 11px;
+}
+td.Head {
+	font-family: Verdana, Arial, Sans-Serif;
+	font-size: 14px;
+}
+.LeftContent {
+	border: 1px solid #D9A148;
+	background-color: #F7C981;
+}
+.LeftContent td {
+	border: 0px;
+	padding: 3px;
+	background-color: #FBE1B8;
+}
+.LeftContent th {
+	border: 0px;
+	padding: 3px;
+	background-color: #FAD8A3;
+	font-family: Verdana, Arial, Sans-Serif;
+	font-size: 11px;
+}
+a:link, 
+a:active, 
+a:visited {
+	color: #7D4D00;
+	text-decoration: underline;
+	font-weight: bold;
+}
+a:hover {
+	color: #000;
+}
+input, select, textarea {
+	font-family: Verdana, Arial, Sans-Serif;
+	padding: 2px;
+	font-size: 11px;
+	border: 1px solid #D9A148;
+	color: #8F651E;
+	background-color: #FDF3E2;
+}
+hr
+{
+	color: black;
+}
+.HeaderImage {
+	width: 500px;
+	height: 125px;
+}
