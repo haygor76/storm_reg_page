@@ -2,7 +2,7 @@
 require "./header.php";
 require "./lang.php";
 
-//$lang = $_GET['lang'];
+$lang = $_GET['lang'];
 
 //echo strlen($lang);
 //echo "<br />";
